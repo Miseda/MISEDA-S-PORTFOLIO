@@ -1,0 +1,22 @@
+img {
+  width: 800px;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  padding: 6px black;
+  margin: 20px white;
+  border: 2px black;
+}
+.font {
+  font-family: sans-serif;
+  font-style: italic;
+  color: white;
+}
+body {
+  background-color: orange;
+}
+li {
+  text-decoration: underline;
+}
