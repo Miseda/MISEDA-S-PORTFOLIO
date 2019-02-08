@@ -21,9 +21,12 @@ li {
   text-decoration: underline;
 }
 .column {
+  margin: 20px white;
+  font-weight: bold;
+  font-style: italic;
   border: 2px white;
   float: right;
   color: white;
   background-color: black;
-  width: 30%
+  width: 30%;
 }
