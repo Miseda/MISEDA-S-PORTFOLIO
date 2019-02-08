@@ -52,3 +52,9 @@ h4 {
   color: black;
   font-weight: bold;
 }
+@@media screen and (min-width: 480px) {
+  body {
+    color: black;
+    background-color: white;
+  }
+}
