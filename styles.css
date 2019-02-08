@@ -20,3 +20,10 @@ body {
 li {
   text-decoration: underline;
 }
+.column {
+  border: 2px white;
+  float: right;
+  color: white;
+  background-color: black;
+  width: 30%
+}
