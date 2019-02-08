@@ -37,4 +37,18 @@ img {
 }
 h3 {
   color: red;
+  text-decoration: underline;
+}
+h4 {
+  color: black;
+}
+.bold {
+  color: grey;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.tt{
+  color: black;
+  font-weight: bold;
 }
