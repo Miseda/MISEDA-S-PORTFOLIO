@@ -3,7 +3,7 @@ img {
 }
 h1 {
   text-align: center;
-  text-decoration: underline;
+  text-decoration: line-through;
   font-style: italic;
   padding: 6px black;
   margin: 20px white;
