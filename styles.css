@@ -19,6 +19,7 @@ body {
 }
 li {
   text-decoration: underline;
+  color: black;
 }
 .column {
   margin: 20px white;
@@ -29,4 +30,11 @@ li {
   color: white;
   background-color: black;
   width: 30%;
+  border-radius: 10px;
+}
+img {
+  border-radius: 10px
+}
+h3 {
+  color: red;
 }
